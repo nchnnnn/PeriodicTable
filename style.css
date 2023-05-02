@@ -1,0 +1,52 @@
+
+body {
+    background-color: rgb(141, 141, 141);
+}
+
+table {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+}
+
+td{
+    font-size: 1rem;
+    text-align: center;
+    border-radius: 5px;
+    padding: 0.6rem;
+    font-weight: 500;
+    
+}
+
+h1 {
+
+    width: fit-content;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    font-size: 2rem;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Press Start 2P';
+    background-color: rgb(160, 160, 160);
+    
+
+}
+
+.space {empty-cells: hide;visibility: hidden;}
+.lightyellow {background-color: rgb(255, 255, 172)}
+.lavender {background-color: rgb(162, 162, 238);}
+.lightred {background-color: rgb(248, 185, 185);}
+.lightblue{background-color: rgb(141, 184, 245);}
+.cyan {background-color: cyan;}
+.aqua{background-color: aquamarine;}
+.dirtygreen{background-color: rgb(146, 197, 146);}
+.green{background-color: rgb(121, 253, 121);}
+.skintone{background-color: #ffd7b5;}
+
+.box {
+    background-color: rgb(66, 65, 65);
+    width: 150px;
+    height:150px;
+    position: absolute;
+    left: 28rem;
+    border-radius: 8px;
+}
